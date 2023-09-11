@@ -1,8 +1,8 @@
 <h1 align="center" id="title">java_uiu_OOP [ By @parvezhossainme ]</h1>
 
 ```diff
-- Here, I want to upload the United International University CSE — 1115 Course, Object Oriented Programming Terms’ Questions’ solutions.
-+ Before that I want to make sure, PLEASE DON'T SHARE IT/COPY IT without my permission! You can share the GitHub Link Only!
++ Here, I want to upload the United International University CSE — 1115 Course, Object Oriented Programming Terms’ Questions’ solutions.
+- Before that I want to make sure, PLEASE DON'T SHARE IT/COPY IT without my permission! You can share the GitHub Link Only!
 ```
 --------Questions OOP --------|--------Solutions OOP--------
 ----------------------------- | -------------
