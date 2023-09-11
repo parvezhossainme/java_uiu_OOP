@@ -17,7 +17,7 @@ Aaaah! It will take a little time....As I am one-handed here.....
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2023] [MD Parvez Hossain]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
