@@ -2,15 +2,20 @@
 ### Again: Don't Copy without my Permission!
 
 ### 1->(A)
-![image_2023-08-30_13-10-48](https://github.com/parvezhossainme/java_uiu_OOP/assets/108608854/8287a886-6612-4e62-be21-58293fbf3afa)
+![image_2023-08-30_13-10-48](https://github.com/parvezhossainme/java_uiu_OOP/assets/108608854/591390f4-7bb4-4455-b5d4-0246ecdd3261)
 ### 1->(B)
-![image_2023-08-30_13-21-20](https://github.com/parvezhossainme/java_uiu_OOP/assets/108608854/1328093b-36ba-4589-afe2-1a0a4d443ddd)
+![image_2023-08-30_13-21-20](https://github.com/parvezhossainme/java_uiu_OOP/assets/108608854/6de9b361-1b63-4e22-b03f-58056a095e86)
+
 ### 2
-![image_2023-08-30_13-51-45](https://github.com/parvezhossainme/java_uiu_OOP/assets/108608854/26b8e2d3-5148-43aa-95ca-bca02e220834)
+![image_2023-08-30_13-51-45](https://github.com/parvezhossainme/java_uiu_OOP/assets/108608854/0815b110-b15b-40b4-8864-6e81d94b49d0)
+
 ### 3
-![image_2023-08-30_15-33-49](https://github.com/parvezhossainme/java_uiu_OOP/assets/108608854/6f864f98-2940-4fed-9dc3-98598ab101d4)
-![image_2023-08-30_15-33-49 (2)](https://github.com/parvezhossainme/java_uiu_OOP/assets/108608854/6ba0b543-8299-472e-9ba9-7c7ee8dd1fcf)
+![image_2023-08-30_15-33-49](https://github.com/parvezhossainme/java_uiu_OOP/assets/108608854/9569a127-08a9-4a2f-953f-11b50c8a359b)
+![image_2023-08-30_15-33-49 (2)](https://github.com/parvezhossainme/java_uiu_OOP/assets/108608854/0e5e302c-2144-4700-b4cd-e87fd7b6426d)
+
 ### 4
-![image_2023-08-30_15-53-50](https://github.com/parvezhossainme/java_uiu_OOP/assets/108608854/d79b6b66-a3dd-469a-8c74-23fdb0f588f7)
+![image_2023-08-30_15-53-50](https://github.com/parvezhossainme/java_uiu_OOP/assets/108608854/6b07fc90-58d4-405a-8971-bcbd051afc44)
+
 ### 5
-![image_2023-08-30_16-03-09](https://github.com/parvezhossainme/java_uiu_OOP/assets/108608854/95be872e-aad6-4467-9277-710f7d52967d)
+![image_2023-08-30_16-03-09](https://github.com/parvezhossainme/java_uiu_OOP/assets/108608854/b4f213c4-d311-42ad-acdc-a266919faf70)
+
