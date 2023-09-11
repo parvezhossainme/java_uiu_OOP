@@ -1,4 +1,4 @@
-![image_2023-08-30_13-10-48](https://github.com/parvezhossainme/java_uiu_OOP/assets/108608854/1f78971b-4848-435e-bebf-a89d6fc25038)# Solved By @parvezhossainme! 
+# Solved By @parvezhossainme! 
 ### Again: Don't Copy without my Permission!
 
 1. Solution
